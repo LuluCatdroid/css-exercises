@@ -3,11 +3,17 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-#twoid {
+#oneid {
     color: rgb(7, 48, 255);
     font-size: 36px;
 } 
 
 .cool {
     font-size: 24px;
+}
+
+#twoid {
+    background-color: rgb(106, 234, 71);
+    font-size: 24px;
+    font-weight: bold;
 }
