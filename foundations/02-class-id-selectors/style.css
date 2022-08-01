@@ -1,15 +1,16 @@
 .odd {
     background-color: rgb(243, 151, 151);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+.cool {
+    font-size: 24px;
 }
 
 #oneid {
     color: rgb(7, 48, 255);
     font-size: 36px;
-} 
-
-.cool {
-    font-size: 24px;
 }
 
 #twoid {
